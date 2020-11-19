@@ -1,2 +1,2 @@
 # domaciradovi
-DOmaći radovi za DUMP internship
+Domaći radovi za DUMP internship
